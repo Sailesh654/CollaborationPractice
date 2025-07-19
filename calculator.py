@@ -5,11 +5,11 @@ class Calculator:
     def divide(dividend: float, divisor: float) -> float:
         pass
     
-    def add(number1: float, number2: float) -> float:
+    def addition(number1: float, number2: float) -> float:
         pass
     
     def subtract(minuend: float, subtrahend: float) -> float:
-        pass
+        return
     
     def power(base: float, exponent: int) -> float:
         return base ** exponent
